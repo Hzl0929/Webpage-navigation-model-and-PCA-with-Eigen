@@ -2,4 +2,4 @@
 
 Apply linear transformations, eigenvalues and eigenvectors in a webpage navigation model. 
 
-Apply PCA on a dataset to reduce its dimensions
+Apply PCA on a dataset to reduce its dimensions.
